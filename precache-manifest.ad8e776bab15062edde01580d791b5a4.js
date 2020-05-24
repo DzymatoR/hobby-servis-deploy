@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "400b78e13bba70d40256d8abdeb3c681",
+    "revision": "f3c04bf5102cea931a7257873ba878a9",
     "url": "/hobby-servis-deploy/index.html"
   },
   {
-    "revision": "a65cb8b9b3c92f64b705",
+    "revision": "c76e45a4843729958b4d",
     "url": "/hobby-servis-deploy/static/css/2.69121389.chunk.css"
   },
   {
-    "revision": "5c92335d1c90be2ef36c",
-    "url": "/hobby-servis-deploy/static/css/main.4bc2a830.chunk.css"
+    "revision": "83196e57851caf545a81",
+    "url": "/hobby-servis-deploy/static/css/main.e3090282.chunk.css"
   },
   {
-    "revision": "a65cb8b9b3c92f64b705",
-    "url": "/hobby-servis-deploy/static/js/2.a663e2d6.chunk.js"
+    "revision": "c76e45a4843729958b4d",
+    "url": "/hobby-servis-deploy/static/js/2.0bf15846.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/hobby-servis-deploy/static/js/2.a663e2d6.chunk.js.LICENSE.txt"
+    "url": "/hobby-servis-deploy/static/js/2.0bf15846.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5c92335d1c90be2ef36c",
-    "url": "/hobby-servis-deploy/static/js/main.3d82423e.chunk.js"
+    "revision": "83196e57851caf545a81",
+    "url": "/hobby-servis-deploy/static/js/main.7f777454.chunk.js"
   },
   {
     "revision": "00ec35e6a31dd8f79b7b",
@@ -76,12 +76,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hobby-servis-deploy/static/media/Optimum.21093053.jpg"
   },
   {
-    "revision": "60b58675c01aef01180afa477cafed91",
-    "url": "/hobby-servis-deploy/static/media/Oregon.60b58675.png"
+    "revision": "1e1bfc7ceee93555c51e4a4ef9192133",
+    "url": "/hobby-servis-deploy/static/media/Oregon.1e1bfc7c.jpg"
   },
   {
-    "revision": "d96b9d016eb95fa51eb187fea3a28200",
-    "url": "/hobby-servis-deploy/static/media/Oregon.d96b9d01.jpg"
+    "revision": "60b58675c01aef01180afa477cafed91",
+    "url": "/hobby-servis-deploy/static/media/Oregon.60b58675.png"
   },
   {
     "revision": "c6777e2a788d7071e41f3f4d86197221",
@@ -108,8 +108,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hobby-servis-deploy/static/media/Sharpening_cut_1920.caa66b54.png"
   },
   {
-    "revision": "c6f7f295225d0a041fecbf003a83a597",
-    "url": "/hobby-servis-deploy/static/media/Soda.c6f7f295.jpg"
+    "revision": "70c93a8ab6d46b5bee8649afa3eac1c7",
+    "url": "/hobby-servis-deploy/static/media/Soda.70c93a8a.jpg"
   },
   {
     "revision": "c41cf9739b16499b823d9f5c151983be",
@@ -124,7 +124,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hobby-servis-deploy/static/media/Tyrolit.b9905754.png"
   },
   {
-    "revision": "ace621645bba56f58701b26950dd0d34",
-    "url": "/hobby-servis-deploy/static/media/Vrtaky.ace62164.jpg"
+    "revision": "593fa1c9f319d44f34c754c2195d58c9",
+    "url": "/hobby-servis-deploy/static/media/Vrtaky.593fa1c9.jpg"
   }
 ]);
