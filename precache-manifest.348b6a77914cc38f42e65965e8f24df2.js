@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f3c04bf5102cea931a7257873ba878a9",
+    "revision": "900dd324c9fba6ccb517b3233d87246a",
     "url": "/hobby-servis-deploy/index.html"
   },
   {
-    "revision": "c76e45a4843729958b4d",
+    "revision": "0fa54400a296b64806b4",
     "url": "/hobby-servis-deploy/static/css/2.69121389.chunk.css"
   },
   {
-    "revision": "83196e57851caf545a81",
-    "url": "/hobby-servis-deploy/static/css/main.e3090282.chunk.css"
+    "revision": "3a31e2c39bf973ecb322",
+    "url": "/hobby-servis-deploy/static/css/main.1fe815f1.chunk.css"
   },
   {
-    "revision": "c76e45a4843729958b4d",
-    "url": "/hobby-servis-deploy/static/js/2.0bf15846.chunk.js"
+    "revision": "0fa54400a296b64806b4",
+    "url": "/hobby-servis-deploy/static/js/2.556beb26.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/hobby-servis-deploy/static/js/2.0bf15846.chunk.js.LICENSE.txt"
+    "url": "/hobby-servis-deploy/static/js/2.556beb26.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "83196e57851caf545a81",
-    "url": "/hobby-servis-deploy/static/js/main.7f777454.chunk.js"
+    "revision": "3a31e2c39bf973ecb322",
+    "url": "/hobby-servis-deploy/static/js/main.4b7dac5a.chunk.js"
   },
   {
     "revision": "00ec35e6a31dd8f79b7b",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hobby-servis-deploy/static/media/Brusle.477e72dc.jpg"
   },
   {
-    "revision": "7f685991957217e684fdcc5d08107bcb",
-    "url": "/hobby-servis-deploy/static/media/Cenik.7f685991.png"
+    "revision": "79194caf5987db51a8f60f36fe74e3c4",
+    "url": "/hobby-servis-deploy/static/media/Cenik.79194caf.png"
   },
   {
     "revision": "0eb5a3da633341de1f098ab72168b2a1",
@@ -104,12 +104,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hobby-servis-deploy/static/media/Sekace.30338da3.jpg"
   },
   {
-    "revision": "caa66b54915ad23a0957587b784ffca1",
-    "url": "/hobby-servis-deploy/static/media/Sharpening_cut_1920.caa66b54.png"
+    "revision": "b6fa69a95b8d0cee994e0676871669a7",
+    "url": "/hobby-servis-deploy/static/media/Sharpening_cut_1920.b6fa69a9.png"
   },
   {
-    "revision": "70c93a8ab6d46b5bee8649afa3eac1c7",
-    "url": "/hobby-servis-deploy/static/media/Soda.70c93a8a.jpg"
+    "revision": "26a562de5774cba77762b01347fd7664",
+    "url": "/hobby-servis-deploy/static/media/Soda.26a562de.jpg"
   },
   {
     "revision": "c41cf9739b16499b823d9f5c151983be",

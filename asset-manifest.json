@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/hobby-servis-deploy/static/css/main.e3090282.chunk.css",
-    "main.js": "/hobby-servis-deploy/static/js/main.7f777454.chunk.js",
-    "main.js.map": "/hobby-servis-deploy/static/js/main.7f777454.chunk.js.map",
+    "main.css": "/hobby-servis-deploy/static/css/main.1fe815f1.chunk.css",
+    "main.js": "/hobby-servis-deploy/static/js/main.4b7dac5a.chunk.js",
+    "main.js.map": "/hobby-servis-deploy/static/js/main.4b7dac5a.chunk.js.map",
     "runtime-main.js": "/hobby-servis-deploy/static/js/runtime-main.31fd4140.js",
     "runtime-main.js.map": "/hobby-servis-deploy/static/js/runtime-main.31fd4140.js.map",
     "static/css/2.69121389.chunk.css": "/hobby-servis-deploy/static/css/2.69121389.chunk.css",
-    "static/js/2.0bf15846.chunk.js": "/hobby-servis-deploy/static/js/2.0bf15846.chunk.js",
-    "static/js/2.0bf15846.chunk.js.map": "/hobby-servis-deploy/static/js/2.0bf15846.chunk.js.map",
+    "static/js/2.556beb26.chunk.js": "/hobby-servis-deploy/static/js/2.556beb26.chunk.js",
+    "static/js/2.556beb26.chunk.js.map": "/hobby-servis-deploy/static/js/2.556beb26.chunk.js.map",
     "index.html": "/hobby-servis-deploy/index.html",
-    "precache-manifest.ad8e776bab15062edde01580d791b5a4.js": "/hobby-servis-deploy/precache-manifest.ad8e776bab15062edde01580d791b5a4.js",
+    "precache-manifest.348b6a77914cc38f42e65965e8f24df2.js": "/hobby-servis-deploy/precache-manifest.348b6a77914cc38f42e65965e8f24df2.js",
     "service-worker.js": "/hobby-servis-deploy/service-worker.js",
     "static/css/2.69121389.chunk.css.map": "/hobby-servis-deploy/static/css/2.69121389.chunk.css.map",
-    "static/css/main.e3090282.chunk.css.map": "/hobby-servis-deploy/static/css/main.e3090282.chunk.css.map",
-    "static/js/2.0bf15846.chunk.js.LICENSE.txt": "/hobby-servis-deploy/static/js/2.0bf15846.chunk.js.LICENSE.txt",
+    "static/css/main.1fe815f1.chunk.css.map": "/hobby-servis-deploy/static/css/main.1fe815f1.chunk.css.map",
+    "static/js/2.556beb26.chunk.js.LICENSE.txt": "/hobby-servis-deploy/static/js/2.556beb26.chunk.js.LICENSE.txt",
     "static/media/Brusle.jpg": "/hobby-servis-deploy/static/media/Brusle.477e72dc.jpg",
-    "static/media/Cenik.png": "/hobby-servis-deploy/static/media/Cenik.7f685991.png",
+    "static/media/Cenik.png": "/hobby-servis-deploy/static/media/Cenik.79194caf.png",
     "static/media/Dlata.jpg": "/hobby-servis-deploy/static/media/Dlata.0eb5a3da.jpg",
     "static/media/Guede.jpg": "/hobby-servis-deploy/static/media/Guede.d726f1f1.jpg",
     "static/media/Haffner.png": "/hobby-servis-deploy/static/media/Haffner.309751ba.png",
@@ -33,8 +33,8 @@
     "static/media/Retez.jpg": "/hobby-servis-deploy/static/media/Retez.4081a0b2.jpg",
     "static/media/Samura.jpeg": "/hobby-servis-deploy/static/media/Samura.fd6193ba.jpeg",
     "static/media/Sekace.jpg": "/hobby-servis-deploy/static/media/Sekace.30338da3.jpg",
-    "static/media/App.css": "/hobby-servis-deploy/static/media/Sharpening_cut_1920.caa66b54.png",
-    "static/media/Soda.jpg": "/hobby-servis-deploy/static/media/Soda.70c93a8a.jpg",
+    "static/media/App.css": "/hobby-servis-deploy/static/media/Sharpening_cut_1920.b6fa69a9.png",
+    "static/media/Soda.jpg": "/hobby-servis-deploy/static/media/Soda.26a562de.jpg",
     "static/media/Soustruh.jpg": "/hobby-servis-deploy/static/media/Soustruh.c41cf973.jpg",
     "static/media/Tormek.png": "/hobby-servis-deploy/static/media/Tormek.efa38adb.png",
     "static/media/Tyrolit.png": "/hobby-servis-deploy/static/media/Tyrolit.b9905754.png",
@@ -43,8 +43,8 @@
   "entrypoints": [
     "static/js/runtime-main.31fd4140.js",
     "static/css/2.69121389.chunk.css",
-    "static/js/2.0bf15846.chunk.js",
-    "static/css/main.e3090282.chunk.css",
-    "static/js/main.7f777454.chunk.js"
+    "static/js/2.556beb26.chunk.js",
+    "static/css/main.1fe815f1.chunk.css",
+    "static/js/main.4b7dac5a.chunk.js"
   ]
 }
