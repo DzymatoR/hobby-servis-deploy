@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "672ba51dd6ab9509ee7c76fc582cad4d",
+    "revision": "4981dfc4c6db1992789b4e876048216d",
     "url": "/hobby-servis-deploy/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hobby-servis-deploy/static/css/2.69121389.chunk.css"
   },
   {
-    "revision": "98a65d39bd96186c6476",
-    "url": "/hobby-servis-deploy/static/css/main.ee9470c6.chunk.css"
+    "revision": "f5bc86927ee1fe74f3e6",
+    "url": "/hobby-servis-deploy/static/css/main.81eacbba.chunk.css"
   },
   {
     "revision": "0fa54400a296b64806b4",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hobby-servis-deploy/static/js/2.556beb26.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "98a65d39bd96186c6476",
-    "url": "/hobby-servis-deploy/static/js/main.db671256.chunk.js"
+    "revision": "f5bc86927ee1fe74f3e6",
+    "url": "/hobby-servis-deploy/static/js/main.54a25161.chunk.js"
   },
   {
     "revision": "00ec35e6a31dd8f79b7b",
